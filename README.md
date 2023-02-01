@@ -76,74 +76,74 @@
 
 Анимация блоба оставляет след:
 
-![our-product-trace](readme-img%2Ftesting%2Fsafari-macos%2Four-product-trace.png)
+![our-product-trace](readme-img/testing/safari-macos/our-product-trace.png)
 
 Кнопка налезает на текст:
 
-![our-product-button](readme-img%2Ftesting%2Fsafari-macos%2Four-product-button.png)
+![our-product-button](readme-img/testing/safari-macos/our-product-button.png)
 
 #### Почему стоит выбрать «Мегакорм»
 
 Анимации оставляют след:
 
-![why-trace1](readme-img%2Ftesting%2Fsafari-macos%2Fwhy-trace1.png)
+![why-trace1](readme-img/testing/safari-macos/why-trace1.png)
 
-![why-trace2](readme-img%2Ftesting%2Fsafari-macos%2Fwhy-trace2.png)
+![why-trace2](readme-img/testing/safari-macos/why-trace2.png)
 
-![why-trace3](readme-img%2Ftesting%2Fsafari-macos%2Fwhy-trace3.png)
+![why-trace3](readme-img/testing/safari-macos/why-trace3.png)
 
 #### Калькулятор
 
 Кнопка налезает на текст:
 
-![calc-button](readme-img%2Ftesting%2Fsafari-macos%2Fcalc-button.png)
+![calc-button](readme-img/testing/safari-macos/calc-button.png)
 
 Одинаковый шрифт на разных блобах (больше блоб - больше текст) + "о компании" сливается с фоном:
 
-![calc-blobs](readme-img%2Ftesting%2Fsafari-macos%2Fcalc-blobs.png)
+![calc-blobs](readme-img/testing/safari-macos/calc-blobs.png)
 
 Присутствует пустой блок с пагинацией (предназначение не установлено):
 
-![calc-empty-pagination](readme-img%2Ftesting%2Fsafari-macos%2Fcalc-empty-pagination.png)
+![calc-empty-pagination](readme-img/testing/safari-macos/calc-empty-pagination.png)
 
 У текста ссылки маленькие отступы слева + лучше растянуть текст в длину, а не в две строчки:
 
-![calc-link](readme-img%2Ftesting%2Fsafari-macos%2Fcalc-link.png)
+![calc-link](readme-img/testing/safari-macos/calc-link.png)
 
 #### Клиентам
 
 Имя и Фамилия сливаются с фоном:
 
-![for-clients](readme-img%2Ftesting%2Fsafari-macos%2Ffor-clients.png)
+![for-clients](readme-img/testing/safari-macos/for-clients.png)
 
 При перелистывании страницы карточка сотрудника не влезает + описание накладывается на фото (если оно большое)
 
-![for-clients-pagination](readme-img%2Ftesting%2Fsafari-macos%2Ffor-clients-pagination.png)
+![for-clients-pagination](readme-img/testing/safari-macos/for-clients-pagination.png)
 
 
 #### Наши дистрибьюторы
 
 Заголовок сильно сливается с фоном:
 
-![distr](readme-img%2Ftesting%2Fsafari-macos%2Fdistr.png)
+![distr](readme-img/testing/safari-macos/distr.png)
 
 "Выберите регион" написано в две строки:
 
-![distr-region](readme-img%2Ftesting%2Fsafari-macos%2Fdistr-region.png)
+![distr-region](readme-img/testing/safari-macos/distr-region.png)
 
 #### Полезные материалы
 
 Анимации оставляют след:
 
-![materials-trace](readme-img%2Ftesting%2Fsafari-macos%2Fmaterials-trace.png)
+![materials-trace](readme-img/testing/safari-macos/materials-trace.png)
 
 Слишком маленькая дата + слишком бледная:
 
-![materials-date.png](readme-img%2Ftesting%2Fsafari-macos%2Fmaterials-date.png)
+![materials-date.png](readme-img/testing/safari-macos/materials-date.png)
 
 При пролистывании вправо карточки не влезают сверху и снизу:
 
-![materials-pagination.png](readme-img%2Ftesting%2Fsafari-macos%2Fmaterials-pagination.png)
+![materials-pagination.png](readme-img/testing/safari-macos/materials-pagination.png)
 
 
 **Общие замечания:**
