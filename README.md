@@ -82,6 +82,18 @@
 
 ![our-product-button](readme-img/testing/safari-macos/our-product-button.png)
 
+#### Таблица 
+
+Текст из столбцов вылезает за пределы + неудобно читать без разделения столбцов
+
+![our-product-button](readme-img/testing/safari-macos/table.png)
+
+Кнопка закрытия очень бледная:
+
+![our-product-button](readme-img/testing/safari-macos/table-close.png)
+
+
+
 #### Почему стоит выбрать «Мегакорм»
 
 Анимации оставляют след:
@@ -92,11 +104,20 @@
 
 ![why-trace3](readme-img/testing/safari-macos/why-trace3.png)
 
+Неверная иконка для "узнайте больше в нашей статье о производстве" - стоит калькулятор:
+
+![why-trace3](readme-img/testing/safari-macos/why-icon.png)
+
+
 #### Калькулятор
 
 Кнопка налезает на текст:
 
 ![calc-button](readme-img/testing/safari-macos/calc-button.png)
+
+Разметка может полностью сбиться при нажатии некоторых кнопок:
+
+![calc-blobs](readme-img/testing/safari-macos/calc-bad-layout.png)
 
 Одинаковый шрифт на разных блобах (больше блоб - больше текст) + "о компании" сливается с фоном:
 
@@ -112,7 +133,7 @@
 
 #### Клиентам
 
-Имя и Фамилия сливаются с фоном:
+Имя и Фамилия сливаются с фоном + нет возможности скопировать email:
 
 ![for-clients](readme-img/testing/safari-macos/for-clients.png)
 
@@ -120,6 +141,25 @@
 
 ![for-clients-pagination](readme-img/testing/safari-macos/for-clients-pagination.png)
 
+#### Связаться
+
+Неудобная валидация email (только после попытки отправки) 
+
++ нет общего стиля: 
+
+Ошибка в email - всплывающее окно; 
+
+Не стоит галочка на обработке данных - выделяется красным
+
+
++ нельзя открыть согласие об обраболтке данных
+
+![for-clients-pagination](readme-img/testing/safari-macos/contact-email.png)
+
+
+Валидацию проходит email без .ru .com и тд
+
+![for-clients-pagination](readme-img/testing/safari-macos/contact-bad-email.png)
 
 #### Наши дистрибьюторы
 
@@ -145,6 +185,11 @@
 
 ![materials-pagination.png](readme-img/testing/safari-macos/materials-pagination.png)
 
+#### Footer
+
+Нет email по нажатию:
+
+![materials-pagination.png](readme-img/testing/safari-macos/footer.png)
 
 **Общие замечания:**
 - Долгие прогрузки картинок
