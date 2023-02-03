@@ -13,6 +13,8 @@
     - [Программа «минимум»](#task-min)
     - [Программа «максимум»](#task-max)
     - [Сроки](#task-date)
+1. [Тестирование](#testing)
+   - [Safari - macOS (1440x900)](#testing-macos-safari)
 2. [Contacts](#contacts)
 
 ---
@@ -52,9 +54,9 @@
 
 ---
 
-## <a name="contacts">Тестирование</a>
+## <a name="testing">Тестирование</a>
 
-### Safari - macOS (1440x900)
+### <a name="testing-macos-safari">Safari - macOS (1440x900)</a>
 
 #### Логотип (во вкладке)
 
@@ -152,7 +154,7 @@
 Не стоит галочка на обработке данных - выделяется красным
 
 
-+ нельзя открыть согласие об обраболтке данных
++ нельзя открыть согласие об обработке данных
 
 ![for-clients-pagination](readme-img/testing/safari-macos/contact-email.png)
 
@@ -166,6 +168,10 @@
 Заголовок сильно сливается с фоном:
 
 ![distr](readme-img/testing/safari-macos/distr.png)
+
+Лишняя кнопка "назад"
+
+![distr](readme-img/testing/safari-macos/distr-back.png)
 
 "Выберите регион" написано в две строки:
 
