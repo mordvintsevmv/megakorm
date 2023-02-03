@@ -15,6 +15,8 @@
     - [Сроки](#task-date)
 1. [Тестирование](#testing)
    - [Safari - macOS (1440x900)](#testing-macos-safari)
+   - [Safari - Iphone SE (640 х 1136)](#testing-iphone-safari)
+   - [Chrome - macOS (1440x900)](#testing-macos-chrome)
 2. [Contacts](#contacts)
 
 ---
@@ -93,7 +95,6 @@
 Кнопка закрытия очень бледная:
 
 ![our-product-button](readme-img/testing/safari-macos/table-close.png)
-
 
 
 #### Почему стоит выбрать «Мегакорм»
@@ -205,9 +206,75 @@
 - Долгие прогрузки картинок
 - Неплавные анимации
 
-### Google Chrome - macOS
+---
+
+### <a name="testing-iphone-safari">Safari - Iphone SE (640 х 1136)</a>
+
+#### Menu
+
+![menu-closed-cross](readme-img/testing/iphonese/menu-closed-cross.jpg)
+
+![menu-open-cross](readme-img/testing/iphonese/menu-open-cross.jpg)
+
+![menu-closed-cross](readme-img/testing/iphonese/menu-open-nocross.jpg)
+
+#### Main
+
+![main](readme-img/testing/iphonese/main.PNG)
+
+#### Наши корма
+
+![our-product-behind](readme-img/testing/iphonese/our-product-behind.jpg)
+
+![our-product-over](readme-img/testing/iphonese/our-product-over.jpg)
+
+![our-product-text](readme-img/testing/iphonese/our-product-text.PNG)
+
+#### Таблица
+
+![table](readme-img/testing/iphonese/table.jpg)
+
+#### Почему стоит выбрать «Мегакорм»
+
+![why](readme-img/testing/iphonese/why.PNG)
+
+#### Калькулятор
+
+![calc-blob](readme-img/testing/iphonese/calc-blob.jpg)
+
+![calc-info](readme-img/testing/iphonese/calc-info.jpg)
+
+![calc-info2](readme-img/testing/iphonese/calc-info2.jpg)
+
+#### О Компании
+
+![company](readme-img/testing/iphonese/company.PNG)
+
+![company-pagination](readme-img/testing/iphonese/company-pagination.jpg)
+
+#### Клиентам
+
+![for-clients](readme-img/testing/iphonese/for-clients.PNG)
+
+#### Связаться
+
+![contact](readme-img/testing/iphonese/contact.PNG)
+
+#### Наши дистрибьюторы
+
+![distr](readme-img/testing/iphonese/distr.jpg)
+
+#### Полезные материалы
+
+![materials](readme-img/testing/iphonese/materials.PNG)
+
+![materials-text](readme-img/testing/iphonese/materials-text.PNG)
 
 
+---
+
+
+### <a name="testing-macos-chrome">Chrome - macOS (1440x900)</a>
 
 
 ---
