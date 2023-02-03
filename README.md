@@ -125,7 +125,9 @@
 
 ![calc-blobs](readme-img/testing/safari-macos/calc-blobs.png)
 
-Присутствует пустой блок с пагинацией (предназначение не установлено):
+#### О Компании
+
+Присутствует пустой блок с пагинацией:
 
 ![calc-empty-pagination](readme-img/testing/safari-macos/calc-empty-pagination.png)
 
