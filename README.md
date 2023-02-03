@@ -169,7 +169,7 @@
 
 Лишняя кнопка "назад"
 
-![distr](readme-img/testing/safari-macos/distr-back.png)
+![distr-back](readme-img/testing/safari-macos/distr-back.png)
 
 "Выберите регион" написано в две строки:
 
