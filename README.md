@@ -177,6 +177,10 @@
 
 ![distr-region](readme-img/testing/safari-macos/distr-region.png)
 
+Лупа выходит за рамки:
+
+![distr-search](readme-img/testing/safari-macos/distr-search.png)
+
 #### Полезные материалы
 
 Анимации оставляют след:
