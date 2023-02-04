@@ -249,6 +249,9 @@
 
 #### Menu
 
+По нажатию кнопки "Меню" само меню открывается/закрывается не с первого раза. 
+При этом значок Меню не всегда соответствует состоянию открыто/закрыто:
+
 ![menu-closed-cross](readme-img/testing/iphonese/menu-closed-cross.jpg)
 
 ![menu-open-cross](readme-img/testing/iphonese/menu-open-cross.jpg)
@@ -257,53 +260,89 @@
 
 #### Main
 
+Пагинация с блока "Наши корма" находится слишком близко к главному блоку.
+Создаётся впечатление, что пагинация предназначена для главного блока:
+
 ![main](readme-img/testing/iphonese/main.PNG)
 
 #### Наши корма
+
+Часть блобов находится поверх текста и кнопок, а другая часть блобов находится снизу:
 
 ![our-product-behind](readme-img/testing/iphonese/our-product-behind.jpg)
 
 ![our-product-over](readme-img/testing/iphonese/our-product-over.jpg)
 
+1. Блоб налезает на заголовок
+2. Заголовок блока "Почему..." не имеет отступа от предыдущего блока
+
 ![our-product-text](readme-img/testing/iphonese/our-product-text.PNG)
 
 #### Таблица
+
+Текст налезает друг на друга:
 
 ![table](readme-img/testing/iphonese/table.jpg)
 
 #### Почему стоит выбрать «Мегакорм»
 
+1. Анимации оставляют след
+2. Блоки находятся слишком близко друг к другу. Сложно опрределить, к какому блоку принадлежит ссылка.
+
 ![why](readme-img/testing/iphonese/why.PNG)
 
 #### Калькулятор
 
+Блобы смещены от центра иконки животного:
+
 ![calc-blob](readme-img/testing/iphonese/calc-blob.jpg)
 
+Текст из блобов вылезает за границы:
+
 ![calc-info](readme-img/testing/iphonese/calc-info.jpg)
+
+У некоторых страниц блобы уменьшаются до минимального размера или обрезаются (текст исчезает на белом фоне):
 
 ![calc-info2](readme-img/testing/iphonese/calc-info2.jpg)
 
 #### О Компании
 
+Слищком большой отступ от заголовка:
+
 ![company](readme-img/testing/iphonese/company.PNG)
+
+Отсутствуют элементы пагинации:
 
 ![company-pagination](readme-img/testing/iphonese/company-pagination.jpg)
 
 #### Клиентам
 
+Слишком маленький текст / Слишком большой блов с фото:
+
 ![for-clients](readme-img/testing/iphonese/for-clients.PNG)
 
 #### Связаться
+
+Блок не адаптивен. Слишком маленький текст и неудобные формы для мобильных девайсов:
 
 ![contact](readme-img/testing/iphonese/contact.PNG)
 
 #### Наши дистрибьюторы
 
+Аналогичные проблемы (смещена лупа, лишняя стрелка назад и тд):
+
 ![distr](readme-img/testing/iphonese/distr.jpg)
 
 #### Полезные материалы
 
+Отсутствует отступ от заголовка:
+
 ![materials](readme-img/testing/iphonese/materials.PNG)
+
+1. Блоб обрезается
+2. Слишком большой блоб
+3. Слишком большой отступ от блоба
+4. Слишком маленькая дата
 
 ![materials-text](readme-img/testing/iphonese/materials-text.PNG)
 
@@ -314,27 +353,43 @@
 
 #### Меню
 
+Меню не всегда открывается:
+
 ![menu](readme-img/testing/iphonese-h/menu.PNG)
 
 #### Наш продукт
+
+Вёрстка полностью слетает:
 
 ![our-products](readme-img/testing/iphonese-h/our-products.PNG)
 
 #### Калькулятор
 
+1. Кнопки смещены и находятся под текстом
+2. Блобы больше кнопок по размеру
+3. Блобы не попадают под выбранный элемент
+
 ![calc](readme-img/testing/iphonese-h/calc.PNG)
 
 #### О компании
 
+Слишком большие отступы:
+
 ![company](readme-img/testing/iphonese-h/company.PNG)
+
+Отсутствуют элементы пагинации:
 
 ![company-pagination](readme-img/testing/iphonese-h/company-pagination.PNG)
 
 #### Наши дистрибьюторы
 
+Аналогичные проблемы (смещена лупа, лишняя стрелка назад и тд):
+
 ![distr](readme-img/testing/iphonese-h/distr.PNG)
 
 #### Footer
+
+Слишком большие ссылки:
 
 ![footer](readme-img/testing/iphonese-h/footer.PNG)
 
@@ -344,39 +399,58 @@
 
 #### Menu
 
+Меню может не открываться / значок не всегда соответствует состоянию меню:
+
 ![menu](readme-img/testing/android-v/menu.jpeg)
 
 #### Наши корма
+
+Кнопки и текст иногда находятся за блобом:
 
 ![our-products](readme-img/testing/android-v/our-products.jpeg)
 
 #### Таблица
 
+Текст сливается:
+
 ![table](readme-img/testing/android-v/table.jpeg)
 
 #### Почему стоит выбрать «Мегакорм»
+
+Блоки слипаются друг с другом:
 
 ![why](readme-img/testing/android-v/why.jpeg)
 
 #### Калькулятор
 
+Для некоторых элементов блоб уменьшается до минимума / текст не видно:
+
 ![calc](readme-img/testing/android-v/calc.jpeg)
 
 #### О Компании
+
+Преимущества (оранжевый текст) слишком большой:
 
 ![company](readme-img/testing/android-v/company.jpeg)
 
 #### Связаться
 
+1. Блок "связаться" не адаптивен
+2. Текст слишком маленький
+
 ![contact](readme-img/testing/android-v/contact.jpeg)
 
 #### Наши дистрибьюторы
+
+Аналогичные проблемы (смещена лупа, лишняя стрелка назад и тд):
 
 ![distr](readme-img/testing/android-v/distr.jpeg)
 
 ---
 
 ### <a name="testing-android-chrome-h">Chrome - Redmi Note 9 (2340 x 1080) - горизонтально</a>
+
+Вёрстка полностью слетает:
 
 #### Header
 
