@@ -15,7 +15,10 @@
     - [Сроки](#task-date)
 1. [Тестирование](#testing)
    - [Safari - macOS (1440x900)](#testing-macos-safari)
-   - [Safari - Iphone SE (640 х 1136)](#testing-iphone-safari)
+   - [Safari - Iphone SE (640 х 1136) - вертикально](#testing-iphone-safari-v)
+   - [Safari - Iphone SE (1136 х 640) - горизонтально](#testing-iphone-safari-h)
+   - [Chrome - Redmi Note 9 (1080 х 2340) - вертикально](#testing-android-chrome-v)
+   - [Chrome - Redmi Note 9 (2340 x 1080) - горизонтально](#testing-android-chrome-h)
    - [Chrome - macOS (1440x900)](#testing-macos-chrome)
 2. [Contacts](#contacts)
 
@@ -208,7 +211,7 @@
 
 ---
 
-### <a name="testing-iphone-safari">Safari - Iphone SE (640 х 1136)</a>
+### <a name="testing-iphone-safari-v">Safari - Iphone SE (640 х 1136) - вертикально</a>
 
 #### Menu
 
@@ -273,6 +276,105 @@
 
 ---
 
+### <a name="testing-iphone-safari-h">Safari - Iphone SE (1136 х 640) - горизонтально</a>
+
+#### Меню
+
+![menu](readme-img/testing/iphonese-h/menu.PNG)
+
+#### Наш продукт
+
+![our-products](readme-img/testing/iphonese-h/our-products.PNG)
+
+#### Калькулятор
+
+![calc](readme-img/testing/iphonese-h/calc.PNG)
+
+#### О компании
+
+![company](readme-img/testing/iphonese-h/company.PNG)
+
+![company-pagination](readme-img/testing/iphonese-h/company-pagination.PNG)
+
+#### Наши дистрибьюторы
+
+![distr](readme-img/testing/iphonese-h/distr.PNG)
+
+#### Footer
+
+![footer](readme-img/testing/iphonese-h/footer.PNG)
+
+---
+
+### <a name="testing-android-chrome-v">Chrome - Redmi Note 9 (1080 х 2340) - вертикально</a>
+
+#### Menu
+
+![menu](readme-img/testing/android-v/menu.jpeg)
+
+#### Наши корма
+
+![our-products](readme-img/testing/android-v/our-products.jpeg)
+
+#### Таблица
+
+![table](readme-img/testing/android-v/table.jpeg)
+
+#### Почему стоит выбрать «Мегакорм»
+
+![why](readme-img/testing/android-v/why.jpeg)
+
+#### Калькулятор
+
+![calc](readme-img/testing/android-v/calc.jpeg)
+
+#### О Компании
+
+![company](readme-img/testing/android-v/company.jpeg)
+
+#### Связаться
+
+![contact](readme-img/testing/android-v/contact.jpeg)
+
+#### Наши дистрибьюторы
+
+![distr](readme-img/testing/android-v/distr.jpeg)
+
+---
+
+### <a name="testing-android-chrome-h">Chrome - Redmi Note 9 (2340 x 1080) - горизонтально</a>
+
+#### Header
+
+![header](readme-img/testing/android-h/header.jpeg)
+
+#### Наши корма
+
+![our-product](readme-img/testing/android-h/our-product.jpeg)
+
+#### Почему стоит выбрать «Мегакорм»
+
+![why1](readme-img/testing/android-h/why1.jpeg)
+
+![why2](readme-img/testing/android-h/why2)
+
+#### О Компании
+
+![company](readme-img/testing/android-h/company.jpeg)
+
+#### Клиентам
+
+![clients](readme-img/testing/android-h/clients.jpeg)
+
+#### Наши дистрибьюторы
+
+![distr](readme-img/testing/android-h/distr.jpeg)
+
+#### Footer
+
+![footer](readme-img/testing/android-h/footer.jpeg)
+
+---
 
 ### <a name="testing-macos-chrome">Chrome - macOS (1440x900)</a>
 
