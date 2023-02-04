@@ -15,11 +15,11 @@
     - [Сроки](#task-date)
 1. [Тестирование](#testing)
    - [Safari - macOS (1440x900)](#testing-macos-safari)
+   - [Chrome - macOS (1440x900)](#testing-macos-chrome)
    - [Safari - Iphone SE (640 х 1136) - вертикально](#testing-iphone-safari-v)
    - [Safari - Iphone SE (1136 х 640) - горизонтально](#testing-iphone-safari-h)
    - [Chrome - Redmi Note 9 (1080 х 2340) - вертикально](#testing-android-chrome-v)
    - [Chrome - Redmi Note 9 (2340 x 1080) - горизонтально](#testing-android-chrome-h)
-   - [Chrome - macOS (1440x900)](#testing-macos-chrome)
 2. [Contacts](#contacts)
 
 ---
