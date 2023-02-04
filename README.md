@@ -20,7 +20,10 @@
    - [Safari - Iphone SE (1136 х 640) - горизонтально](#testing-iphone-safari-h)
    - [Chrome - Redmi Note 9 (1080 х 2340) - вертикально](#testing-android-chrome-v)
    - [Chrome - Redmi Note 9 (2340 x 1080) - горизонтально](#testing-android-chrome-h)
-2. [Contacts](#contacts)
+2. [Ключевые недостатки](#main-problems)
+3. [Предложения по оптимизации](#advice)
+4. [Реализация](#implementing)
+3. [Контакты](#contacts)
 
 ---
 
@@ -391,6 +394,23 @@
 
 ---
 
+## <a name="main-problems">Ключевые недостатки</a>
+
+**В работе**
+
+---
+
+## <a name="advice">Предложения по оптимизации</a>
+
+**В работе**
+
+---
+
+## <a name="implementing">Реализация</a>
+
+**В работе**
+
+---
 
 ## <a name="contacts">Контакты</a>
 
