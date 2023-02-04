@@ -211,6 +211,21 @@
 
 ---
 
+### <a name="testing-macos-chrome">Chrome - macOS (1440x900)</a>
+
+Аналогичные проблемы, как в браузере Safari. 
+Из улучшений:
+
+Анимации не оставляют след:
+
+![animations](readme-img/testing/chrome/animations.png)
+
+Пагинация в разделе "О компании" показывает картинки:
+
+![pagination](readme-img/testing/chrome/our-company.png)
+
+---
+
 ### <a name="testing-iphone-safari-v">Safari - Iphone SE (640 х 1136) - вертикально</a>
 
 #### Menu
@@ -376,10 +391,6 @@
 
 ---
 
-### <a name="testing-macos-chrome">Chrome - macOS (1440x900)</a>
-
-
----
 
 ## <a name="contacts">Контакты</a>
 
